@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "name": "Nuray Əliyeva",
+      "age": "19",
+      "city": "Bakı",
+      "status": "active",
+      "score": "85",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Elgün Məmmədov",
+      "age": 19,
+      "city": "Şabran",
+      "group": "student",
+      "status": "active",
+      "score": 72
+    },
+    {
+      "id": "3",
+      "name": "Aysel Hüseynova",
+      "age": 22,
+      "city": "Gəncə",
+      "group": "student",
+      "status": "inactive",
+      "score": 91
+    },
+    {
+      "id": "4",
+      "name": "Murad Quliyev",
+      "age": 18,
+      "city": "Bakı",
+      "group": "student",
+      "status": "active",
+      "score": 60
+    },
+    {
+      "id": "5",
+      "name": "Kamal Rzayev",
+      "age": 21,
+      "city": "Sumqayıt",
+      "group": "student",
+      "status": "active",
+      "score": 78
+    },
+    {
+      "id": "6",
+      "name": "Ləman Əliyeva",
+      "age": 20,
+      "city": "Bakı",
+      "group": "student",
+      "status": "inactive",
+      "score": 88
+    },
+    {
+      "id": "7",
+      "name": "Orxan İsmayılov",
+      "age": 23,
+      "city": "Gəncə",
+      "group": "student",
+      "status": "active",
+      "score": 69
+    },
+    {
+      "id": "8",
+      "name": "Nigar Abdullayeva",
+      "age": 19,
+      "city": "Quba",
+      "group": "student",
+      "status": "active",
+      "score": 95
+    },
+    {
+      "id": "9",
+      "name": "Ramin Həsənov",
+      "age": 22,
+      "city": "Bakı",
+      "group": "student",
+      "status": "inactive",
+      "score": 74
+    },
+    {
+      "id": "10",
+      "name": "Zəhra Məmmədli",
+      "age": 21,
+      "city": "Şəki",
+      "group": "student",
+      "status": "active",
+      "score": 81
+    },
+    {
+      "id": "11",
+      "name": "Səid Əliyev",
+      "age": 20,
+      "city": "Bakı",
+      "group": "student",
+      "status": "active",
+      "score": 77
+    },
+    {
+      "id": "12",
+      "name": "Aylin Məmmədova",
+      "age": 19,
+      "city": "Sumqayıt",
+      "group": "student",
+      "status": "inactive",
+      "score": 83
+    },
+    {
+      "id": "13",
+      "name": "Tunar Rəhimov",
+      "age": 22,
+      "city": "Gəncə",
+      "group": "student",
+      "status": "active",
+      "score": 90
+    },
+    {
+      "id": "14",
+      "name": "Zeynəb Quliyeva",
+      "age": 21,
+      "city": "Bakı",
+      "group": "student",
+      "status": "active",
+      "score": 86
+    },
+    {
+      "id": "15",
+      "name": "Fəridə Həsənova",
+      "age": 23,
+      "city": "Quba",
+      "group": "student",
+      "status": "inactive",
+      "score": 68
+    },
+    {
+      "id": "16",
+      "name": "Kamran Məmmədli",
+      "age": 20,
+      "city": "Şəki",
+      "group": "student",
+      "status": "active",
+      "score": 92
+    }
+  ]
+}

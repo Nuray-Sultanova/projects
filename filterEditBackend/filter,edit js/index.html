@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="searchContainer">
+      <input type="text" id="searchInput" placeholder="Axtarış edin" />
+      <button id="addNewelement">yenisi yarat</button>
+    </div>
+
+    <div class="formContainer">
+      <form id="addnewForm">
+        <input id="Name" type="text" placeholder="Ad ve soyad " />
+        <input id="Age" type="text" placeholder="Yaş " />
+        <input id="City" type="text" placeholder="Seher " />
+        <input id="Status" type="text" placeholder="Status " />
+        <input id="Score" type="text" placeholder="Bal " />
+        <button type="submit" id="Submitbtn">əlavə et</button>
+        <input type="button" value="Ləğv et" id="cancelBtn" />
+      </form>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Ad</th>
+          <th>Yaş</th>
+          <th>Şəhər</th>
+          <th>Status</th>
+          <th>Bal</th>
+          <th>Əməliyyat</th>
+        </tr>
+      </thead>
+      <tbody id="studentTable"></tbody>
+    </table>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.11.0/axios.min.js"
+      integrity="sha512-h9644v03pHqrIHThkvXhB2PJ8zf5E9IyVnrSfZg8Yj8k4RsO4zldcQc4Bi9iVLUCCsqNY0b4WXVV4UB+wbWENA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
